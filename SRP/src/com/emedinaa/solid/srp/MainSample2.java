@@ -1,6 +1,6 @@
-package com.emedinaa.osp.srp;
+package com.emedinaa.solid.srp;
 
-import com.emedinaa.osp.srp.sample2.MyModem;
+import com.emedinaa.solid.srp.sample2.MyModem;
 
 /**
  * Created by emedinaa on 18/07/16.

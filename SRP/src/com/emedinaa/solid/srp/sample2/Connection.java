@@ -1,4 +1,4 @@
-package com.emedinaa.osp.srp.sample2;
+package com.emedinaa.solid.srp.sample2;
 
 /**
  * Created by emedinaa on 18/07/16.
