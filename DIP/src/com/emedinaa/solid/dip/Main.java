@@ -6,6 +6,7 @@ package com.emedinaa.solid.dip;
 public class Main {
 
     public static void main(String[] args) {
-
+        Robot robot= new Robot();
+        robot.findSarahConor();
     }
 }
