@@ -1,15 +1,11 @@
 # Solid Principles of Object Oriented Design
 
-1. Principio de Responsabilidad Única (Single Responsibility Principle)
-'S'.O.L.I.D
+1. Single Responsibility Principle (SRP) 'S'.O.L.I.D
 
-2. Principio Abierto/Cerrado (Open/Closed Principle)  S.'O'.L.I.D
+2. Open/Closed Principle (OCP) S.'O'.L.I.D
  
-3. Principio de sustitución de Liskov (Liskov Substitution Principle ) 
-S.O.'L'.I.D
+3. Liskov Substitution Principle (LSP) S.O.'L'.I.D
 
-4. Principio de Segregación de Interfaces (Interface Segregation Principle )
-S.O.L.'I'.D
+4. Interface Segregation Principle (ISP) S.O.L.'I'.D
 
-5. Principio de Inversión de Dependencias ( Dependency Inversion Principle )
-S.O.L.I.'D'
+5. Dependency Inversion Principle (DIP) S.O.L.I.'D'
