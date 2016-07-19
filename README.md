@@ -1,4 +1,4 @@
-# solid_principles
+# Solid Principles of Object Oriented Design
 
 1. Principio de Responsabilidad Única (Single Responsibility Principle)
 'S'.O.L.I.D
